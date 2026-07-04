@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🎬 MediaForge AI
+# 🎬 UpScale-IT
+
 
 ### Transform Videos • Upscale Images • Empower Creativity
 
